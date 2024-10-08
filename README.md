@@ -1,1 +1,2 @@
-# minds-cli
+# Minds CLI Tool
+
